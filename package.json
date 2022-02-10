@@ -1,0 +1,22 @@
+{
+  "dependencies": {
+    "chalk": "^3.0.0-beta.2",
+    "discord.js": "^13.5.0"
+  },
+  "name": "bot-raid-1",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {
+    "nodemon": "^2.0.12"
+  },
+  "scripts": {
+    "start": "node app",
+    "dev": "nodemon app"
+  },
+  "engines": {
+    "node": "16.x"
+  },
+  "author": "pako",
+  "license": "ISC",
+  "description": ""
+}
